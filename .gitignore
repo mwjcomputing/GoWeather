@@ -14,5 +14,8 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-#API Key
+# API Key
 DarkSky.ApiKey
+
+# GoWeather build
+goweather
